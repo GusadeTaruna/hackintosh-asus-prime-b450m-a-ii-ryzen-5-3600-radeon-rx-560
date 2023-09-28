@@ -3,7 +3,8 @@
 Use at your own risk. :)
 
 ### FYI
-This EFI file has been tested in Ventura 13.6 and Sonoma 14.0 versions, but it's not ruled out that it can be used in older versions, but (I think) only up to Catalina version.
+- The system seems missreading the CPU, which in progress fixing
+- This EFI file has been tested in Ventura 13.6 and Sonoma 14.0 versions, but it's not ruled out that it can be used in older versions, but (I think) only up to Catalina version.
 
 ### Specification
 | Component        | Model                                               |
